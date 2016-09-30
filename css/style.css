@@ -1,0 +1,14 @@
+body {
+  background-color: rgba(217, 217, 217); ;
+  margin: 0;
+  padding: 0;
+}
+
+#navbar-mobile{
+  width: 300px;
+  height: 100%;
+  background-color: red;
+  top: 0;
+  left: 0;
+  position: fixed;
+}
